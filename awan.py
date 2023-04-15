@@ -1,4 +1,4 @@
 import os
-print('join watsapp group ')
+print('join chat group ')
 os.system('xdg-open https://chat.whatsapp.com/Jm4JwuvwGyq89m0qt5VVPM')
-import AWN10
+import AWN11
