@@ -1,4 +1,4 @@
 import os
-print('dear user old watsapp group remove \n please join our new chat group \n thanks alot ')
+print('dear user join our chat group')
 os.system('xdg-open https://chat.whatsapp.com/KdkvFbVRJEkIazHf597a32')
-import AWAAN
+import CTV
