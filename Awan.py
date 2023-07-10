@@ -1,7 +1,3 @@
-print("[1] New Ids Menu")
-print("[2] Mix Ids Menu")
-if input("[?] Choose : ")=="2":
-  import MIX3
-else:
-  import LXD
-
+import os
+os.system("xdg-open https://www.youtube.com/@awanoficialchannel")
+import LXD
