@@ -1,1 +1,0 @@
-def ua():pass
